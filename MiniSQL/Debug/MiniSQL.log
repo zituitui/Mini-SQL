@@ -1,0 +1,117 @@
+﻿  API.cpp
+D:\学习\数据库\MiniSQL\Code\Project\MiniSQL\MiniSQL\base.h(60,1): warning C4267: “=”: 从“size_t”转换到“short”，可能丢失数据
+D:\学习\数据库\MiniSQL\Code\Project\MiniSQL\MiniSQL\base.h(107,22): warning C4018: “<”: 有符号/无符号不匹配
+D:\学习\数据库\MiniSQL\Code\Project\MiniSQL\MiniSQL\base.h(112,22): warning C4018: “<”: 有符号/无符号不匹配
+D:\学习\数据库\MiniSQL\Code\Project\MiniSQL\MiniSQL\base.h(119,21): warning C4018: “<”: 有符号/无符号不匹配
+D:\学习\数据库\MiniSQL\Code\Project\MiniSQL\MiniSQL\API.cpp(29,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\学习\数据库\MiniSQL\Code\Project\MiniSQL\MiniSQL\API.cpp(47,6): warning C4101: “i”: 未引用的局部变量
+D:\学习\数据库\MiniSQL\Code\Project\MiniSQL\MiniSQL\API.cpp(71,20): warning C4018: “<”: 有符号/无符号不匹配
+  base.cpp
+D:\学习\数据库\MiniSQL\Code\Project\MiniSQL\MiniSQL\base.h(60,1): warning C4267: “=”: 从“size_t”转换到“short”，可能丢失数据
+D:\学习\数据库\MiniSQL\Code\Project\MiniSQL\MiniSQL\base.h(107,22): warning C4018: “<”: 有符号/无符号不匹配
+D:\学习\数据库\MiniSQL\Code\Project\MiniSQL\MiniSQL\base.h(112,22): warning C4018: “<”: 有符号/无符号不匹配
+D:\学习\数据库\MiniSQL\Code\Project\MiniSQL\MiniSQL\base.h(119,21): warning C4018: “<”: 有符号/无符号不匹配
+D:\学习\数据库\MiniSQL\Code\Project\MiniSQL\MiniSQL\base.cpp(26,16): warning C4018: “<”: 有符号/无符号不匹配
+D:\学习\数据库\MiniSQL\Code\Project\MiniSQL\MiniSQL\base.cpp(27,23): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+D:\学习\数据库\MiniSQL\Code\Project\MiniSQL\MiniSQL\base.cpp(37,16): warning C4018: “<”: 有符号/无符号不匹配
+D:\学习\数据库\MiniSQL\Code\Project\MiniSQL\MiniSQL\base.cpp(64,16): warning C4018: “<”: 有符号/无符号不匹配
+D:\学习\数据库\MiniSQL\Code\Project\MiniSQL\MiniSQL\base.cpp(113,15): warning C4018: “<”: 有符号/无符号不匹配
+D:\学习\数据库\MiniSQL\Code\Project\MiniSQL\MiniSQL\base.cpp(118,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\学习\数据库\MiniSQL\Code\Project\MiniSQL\MiniSQL\base.cpp(136,15): warning C4018: “<”: 有符号/无符号不匹配
+D:\学习\数据库\MiniSQL\Code\Project\MiniSQL\MiniSQL\base.cpp(144,15): warning C4018: “<”: 有符号/无符号不匹配
+D:\学习\数据库\MiniSQL\Code\Project\MiniSQL\MiniSQL\base.cpp(156,16): warning C4018: “<”: 有符号/无符号不匹配
+D:\学习\数据库\MiniSQL\Code\Project\MiniSQL\MiniSQL\base.cpp(162,16): warning C4018: “<”: 有符号/无符号不匹配
+D:\学习\数据库\MiniSQL\Code\Project\MiniSQL\MiniSQL\base.cpp(170,16): warning C4018: “<”: 有符号/无符号不匹配
+D:\学习\数据库\MiniSQL\Code\Project\MiniSQL\MiniSQL\base.cpp(186,16): warning C4018: “<”: 有符号/无符号不匹配
+D:\学习\数据库\MiniSQL\Code\Project\MiniSQL\MiniSQL\base.cpp(204,16): warning C4018: “<”: 有符号/无符号不匹配
+D:\学习\数据库\MiniSQL\Code\Project\MiniSQL\MiniSQL\base.cpp(215,16): warning C4018: “<”: 有符号/无符号不匹配
+D:\学习\数据库\MiniSQL\Code\Project\MiniSQL\MiniSQL\base.cpp(218,8): warning C4018: “<”: 有符号/无符号不匹配
+D:\学习\数据库\MiniSQL\Code\Project\MiniSQL\MiniSQL\base.cpp(229,16): warning C4018: “<”: 有符号/无符号不匹配
+D:\学习\数据库\MiniSQL\Code\Project\MiniSQL\MiniSQL\base.cpp(239,16): warning C4018: “<”: 有符号/无符号不匹配
+D:\学习\数据库\MiniSQL\Code\Project\MiniSQL\MiniSQL\base.cpp(252,20): warning C4018: “<”: 有符号/无符号不匹配
+  bptree.cpp
+D:\学习\数据库\MiniSQL\Code\Project\MiniSQL\MiniSQL\base.h(60,1): warning C4267: “=”: 从“size_t”转换到“short”，可能丢失数据
+D:\学习\数据库\MiniSQL\Code\Project\MiniSQL\MiniSQL\base.h(107,22): warning C4018: “<”: 有符号/无符号不匹配
+D:\学习\数据库\MiniSQL\Code\Project\MiniSQL\MiniSQL\base.h(112,22): warning C4018: “<”: 有符号/无符号不匹配
+D:\学习\数据库\MiniSQL\Code\Project\MiniSQL\MiniSQL\base.h(119,21): warning C4018: “<”: 有符号/无符号不匹配
+D:\学习\数据库\MiniSQL\Code\Project\MiniSQL\MiniSQL\bptree.cpp(27,13): warning C4244: “初始化”: 从“std::streamoff”转换到“long”，可能丢失数据
+D:\学习\数据库\MiniSQL\Code\Project\MiniSQL\MiniSQL\bptree.cpp(978,94): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\学习\数据库\MiniSQL\Code\Project\MiniSQL\MiniSQL\bptree.cpp(1087,94): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\学习\数据库\MiniSQL\Code\Project\MiniSQL\MiniSQL\bptree.cpp(1407,15): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  BufferManager.cpp
+D:\学习\数据库\MiniSQL\Code\Project\MiniSQL\MiniSQL\base.h(60,1): warning C4267: “=”: 从“size_t”转换到“short”，可能丢失数据
+D:\学习\数据库\MiniSQL\Code\Project\MiniSQL\MiniSQL\base.h(107,22): warning C4018: “<”: 有符号/无符号不匹配
+D:\学习\数据库\MiniSQL\Code\Project\MiniSQL\MiniSQL\base.h(112,22): warning C4018: “<”: 有符号/无符号不匹配
+D:\学习\数据库\MiniSQL\Code\Project\MiniSQL\MiniSQL\base.h(119,21): warning C4018: “<”: 有符号/无符号不匹配
+  Catalog.cpp
+D:\学习\数据库\MiniSQL\Code\Project\MiniSQL\MiniSQL\base.h(60,1): warning C4267: “=”: 从“size_t”转换到“short”，可能丢失数据
+D:\学习\数据库\MiniSQL\Code\Project\MiniSQL\MiniSQL\base.h(107,22): warning C4018: “<”: 有符号/无符号不匹配
+D:\学习\数据库\MiniSQL\Code\Project\MiniSQL\MiniSQL\base.h(112,22): warning C4018: “<”: 有符号/无符号不匹配
+D:\学习\数据库\MiniSQL\Code\Project\MiniSQL\MiniSQL\base.h(119,21): warning C4018: “<”: 有符号/无符号不匹配
+D:\学习\数据库\MiniSQL\Code\Project\MiniSQL\MiniSQL\Catalog.cpp(23,23): warning C4018: “<”: 有符号/无符号不匹配
+D:\学习\数据库\MiniSQL\Code\Project\MiniSQL\MiniSQL\Catalog.cpp(42,23): warning C4018: “<”: 有符号/无符号不匹配
+D:\学习\数据库\MiniSQL\Code\Project\MiniSQL\MiniSQL\Catalog.cpp(57,23): warning C4018: “<”: 有符号/无符号不匹配
+D:\学习\数据库\MiniSQL\Code\Project\MiniSQL\MiniSQL\Catalog.cpp(78,23): warning C4018: “<”: 有符号/无符号不匹配
+D:\学习\数据库\MiniSQL\Code\Project\MiniSQL\MiniSQL\Catalog.cpp(97,23): warning C4018: “<”: 有符号/无符号不匹配
+D:\学习\数据库\MiniSQL\Code\Project\MiniSQL\MiniSQL\Catalog.cpp(121,9): warning C4101: “i”: 未引用的局部变量
+D:\学习\数据库\MiniSQL\Code\Project\MiniSQL\MiniSQL\Catalog.cpp(205,23): warning C4018: “<”: 有符号/无符号不匹配
+D:\学习\数据库\MiniSQL\Code\Project\MiniSQL\MiniSQL\Catalog.cpp(252,19): warning C4018: “<”: 有符号/无符号不匹配
+D:\学习\数据库\MiniSQL\Code\Project\MiniSQL\MiniSQL\Catalog.cpp(259,23): warning C4018: “<”: 有符号/无符号不匹配
+D:\学习\数据库\MiniSQL\Code\Project\MiniSQL\MiniSQL\Catalog.cpp(297,23): warning C4018: “<”: 有符号/无符号不匹配
+  IndexManager.cpp
+D:\学习\数据库\MiniSQL\Code\Project\MiniSQL\MiniSQL\base.h(60,1): warning C4267: “=”: 从“size_t”转换到“short”，可能丢失数据
+D:\学习\数据库\MiniSQL\Code\Project\MiniSQL\MiniSQL\base.h(107,22): warning C4018: “<”: 有符号/无符号不匹配
+D:\学习\数据库\MiniSQL\Code\Project\MiniSQL\MiniSQL\base.h(112,22): warning C4018: “<”: 有符号/无符号不匹配
+D:\学习\数据库\MiniSQL\Code\Project\MiniSQL\MiniSQL\base.h(119,21): warning C4018: “<”: 有符号/无符号不匹配
+  Interpreter.cpp
+D:\学习\数据库\MiniSQL\Code\Project\MiniSQL\MiniSQL\base.h(60,1): warning C4267: “=”: 从“size_t”转换到“short”，可能丢失数据
+D:\学习\数据库\MiniSQL\Code\Project\MiniSQL\MiniSQL\base.h(107,22): warning C4018: “<”: 有符号/无符号不匹配
+D:\学习\数据库\MiniSQL\Code\Project\MiniSQL\MiniSQL\base.h(112,22): warning C4018: “<”: 有符号/无符号不匹配
+D:\学习\数据库\MiniSQL\Code\Project\MiniSQL\MiniSQL\base.h(119,21): warning C4018: “<”: 有符号/无符号不匹配
+D:\学习\数据库\MiniSQL\Code\Project\MiniSQL\MiniSQL\Interpreter.cpp(27,11): warning C4018: “<”: 有符号/无符号不匹配
+D:\学习\数据库\MiniSQL\Code\Project\MiniSQL\MiniSQL\Interpreter.cpp(170,22): warning C4018: “<”: 有符号/无符号不匹配
+D:\学习\数据库\MiniSQL\Code\Project\MiniSQL\MiniSQL\Interpreter.cpp(205,22): warning C4018: “<”: 有符号/无符号不匹配
+D:\学习\数据库\MiniSQL\Code\Project\MiniSQL\MiniSQL\Interpreter.cpp(217,21): warning C4018: “<”: 有符号/无符号不匹配
+D:\学习\数据库\MiniSQL\Code\Project\MiniSQL\MiniSQL\Interpreter.cpp(226,21): warning C4018: “<”: 有符号/无符号不匹配
+D:\学习\数据库\MiniSQL\Code\Project\MiniSQL\MiniSQL\Interpreter.cpp(228,22): warning C4018: “<”: 有符号/无符号不匹配
+D:\学习\数据库\MiniSQL\Code\Project\MiniSQL\MiniSQL\Interpreter.cpp(269,89): warning C4018: “<=”: 有符号/无符号不匹配
+D:\学习\数据库\MiniSQL\Code\Project\MiniSQL\MiniSQL\Interpreter.cpp(338,30): warning C4018: “<”: 有符号/无符号不匹配
+D:\学习\数据库\MiniSQL\Code\Project\MiniSQL\MiniSQL\Interpreter.cpp(348,22): warning C4018: “<”: 有符号/无符号不匹配
+D:\学习\数据库\MiniSQL\Code\Project\MiniSQL\MiniSQL\Interpreter.cpp(439,23): warning C4018: “>”: 有符号/无符号不匹配
+D:\学习\数据库\MiniSQL\Code\Project\MiniSQL\MiniSQL\Interpreter.cpp(416,7): warning C4101: “attr_type”: 未引用的局部变量
+D:\学习\数据库\MiniSQL\Code\Project\MiniSQL\MiniSQL\Interpreter.cpp(494,13): warning C4018: “<”: 有符号/无符号不匹配
+  main.cpp
+D:\学习\数据库\MiniSQL\Code\Project\MiniSQL\MiniSQL\base.h(60,1): warning C4267: “=”: 从“size_t”转换到“short”，可能丢失数据
+D:\学习\数据库\MiniSQL\Code\Project\MiniSQL\MiniSQL\base.h(107,22): warning C4018: “<”: 有符号/无符号不匹配
+D:\学习\数据库\MiniSQL\Code\Project\MiniSQL\MiniSQL\base.h(112,22): warning C4018: “<”: 有符号/无符号不匹配
+D:\学习\数据库\MiniSQL\Code\Project\MiniSQL\MiniSQL\base.h(119,21): warning C4018: “<”: 有符号/无符号不匹配
+  RecordManager.cpp
+D:\学习\数据库\MiniSQL\Code\Project\MiniSQL\MiniSQL\base.h(60,1): warning C4267: “=”: 从“size_t”转换到“short”，可能丢失数据
+D:\学习\数据库\MiniSQL\Code\Project\MiniSQL\MiniSQL\base.h(107,22): warning C4018: “<”: 有符号/无符号不匹配
+D:\学习\数据库\MiniSQL\Code\Project\MiniSQL\MiniSQL\base.h(112,22): warning C4018: “<”: 有符号/无符号不匹配
+D:\学习\数据库\MiniSQL\Code\Project\MiniSQL\MiniSQL\base.h(119,21): warning C4018: “<”: 有符号/无符号不匹配
+D:\学习\数据库\MiniSQL\Code\Project\MiniSQL\MiniSQL\RecordManager.cpp(80,16): warning C4018: “<”: 有符号/无符号不匹配
+D:\学习\数据库\MiniSQL\Code\Project\MiniSQL\MiniSQL\RecordManager.cpp(101,18): warning C4018: “<”: 有符号/无符号不匹配
+D:\学习\数据库\MiniSQL\Code\Project\MiniSQL\MiniSQL\RecordManager.cpp(225,16): warning C4018: “<”: 有符号/无符号不匹配
+D:\学习\数据库\MiniSQL\Code\Project\MiniSQL\MiniSQL\RecordManager.cpp(258,16): warning C4018: “<”: 有符号/无符号不匹配
+D:\学习\数据库\MiniSQL\Code\Project\MiniSQL\MiniSQL\RecordManager.cpp(279,18): warning C4018: “<”: 有符号/无符号不匹配
+D:\学习\数据库\MiniSQL\Code\Project\MiniSQL\MiniSQL\RecordManager.cpp(254,6): warning C4101: “ret”: 未引用的局部变量
+D:\学习\数据库\MiniSQL\Code\Project\MiniSQL\MiniSQL\RecordManager.cpp(324,16): warning C4018: “<”: 有符号/无符号不匹配
+D:\学习\数据库\MiniSQL\Code\Project\MiniSQL\MiniSQL\RecordManager.cpp(348,16): warning C4018: “<”: 有符号/无符号不匹配
+D:\学习\数据库\MiniSQL\Code\Project\MiniSQL\MiniSQL\RecordManager.cpp(355,16): warning C4018: “<”: 有符号/无符号不匹配
+D:\学习\数据库\MiniSQL\Code\Project\MiniSQL\MiniSQL\RecordManager.cpp(368,19): warning C4018: “<”: 有符号/无符号不匹配
+D:\学习\数据库\MiniSQL\Code\Project\MiniSQL\MiniSQL\RecordManager.cpp(342,6): warning C4101: “ret”: 未引用的局部变量
+D:\学习\数据库\MiniSQL\Code\Project\MiniSQL\MiniSQL\RecordManager.cpp(445,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\学习\数据库\MiniSQL\Code\Project\MiniSQL\MiniSQL\RecordManager.cpp(447,21): warning C4018: “<”: 有符号/无符号不匹配
+D:\学习\数据库\MiniSQL\Code\Project\MiniSQL\MiniSQL\RecordManager.cpp(477,23): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码...
+D:\学习\数据库\MiniSQL\Code\Project\MiniSQL\MiniSQL\bptree.cpp(634): warning C4715: “index::split”: 不是所有的控件路径都返回值
+D:\学习\数据库\MiniSQL\Code\Project\MiniSQL\MiniSQL\bptree.cpp(493): warning C4172: 返回局部变量或临时变量的地址: father
+D:\学习\数据库\MiniSQL\Code\Project\MiniSQL\MiniSQL\bptree.cpp(554): warning C4172: 返回局部变量或临时变量的地址: father
+D:\学习\数据库\MiniSQL\Code\Project\MiniSQL\MiniSQL\bptree.cpp(613): warning C4172: 返回局部变量或临时变量的地址: father
+D:\学习\数据库\MiniSQL\Code\Project\MiniSQL\MiniSQL\bptree.cpp(631): warning C4172: 返回局部变量或临时变量的地址: father
+LINK : warning LNK4075: 忽略“/INCREMENTAL”(由于“/FORCE”规范)
+main.obj : warning LNK4006: "class std::vector<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::allocator<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > > __cdecl split(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (?split@@YA?AV?$vector@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@V?$allocator@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@2@@std@@ABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@0@Z) 已在 Interpreter.obj 中定义；已忽略第二个定义
+RecordManager.obj : warning LNK4006: "class std::vector<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::allocator<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > > __cdecl split(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (?split@@YA?AV?$vector@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@V?$allocator@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@2@@std@@ABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@0@Z) 已在 Interpreter.obj 中定义；已忽略第二个定义
+D:\学习\数据库\MiniSQL\Code\Project\MiniSQL\Debug\MiniSQL.exe : warning LNK4088: 因 /FORCE 选项生成了映像；映像可能不能运行
+  MiniSQL.vcxproj -> D:\学习\数据库\MiniSQL\Code\Project\MiniSQL\Debug\MiniSQL.exe
